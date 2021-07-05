@@ -2,8 +2,8 @@
     "name": "Mattermost dark",
     "is_dark": true,
     "colors": {
-        "accent-color": "#7289DA",
-        "primary-color": "#00b0f4",
+        "accent-color": "#0dbd8b",
+        "primary-color": "#a4ffeb",
         "warning-color": "#f04747",
         "sidebar-color": "#162332",
 
@@ -11,7 +11,7 @@
         "roomlist-text-color": "#FFFFFF",
         "roomlist-text-secondary-color": "#99AAB5",
         "roomlist-highlights-color": "#2f3e4e",
-        "roomlist-separator-color": "#36393f",
+        "roomlist-separator-color": "#5b6773",
 
         "timeline-background-color": "#2f3e4e",
         "timeline-text-color": "#dddddd",
